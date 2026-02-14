@@ -49,4 +49,26 @@ library-ml-project/
 └── README.md
 
 
+## Live Demo
+https://library-ml-project.onrender.com
+
+## Project Overview
+This project predicts library book demand using machine learning.
+
+The model was trained using book metadata such as:
+- Rating
+- Pages
+- Publish year
+- Reviews count
+
+The application is deployed using Streamlit and Render.
+
+## Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+- Joblib
+- GitHub
+- Render
 
