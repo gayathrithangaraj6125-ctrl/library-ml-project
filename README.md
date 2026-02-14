@@ -1,4 +1,4 @@
-# 📚 Library Management System (Machine Learning Based)
+# 📚 Library Book Demand Prediction App (Machine Learning Based)
 
 A Machine Learning-powered Library Management System built using **Python**, **Scikit-learn**, and **Streamlit**.  
 This project trains a model on library data and provides an interactive web interface for predictions and management.
